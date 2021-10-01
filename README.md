@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+**Growth Mindset** *is a developing way to accept challenges and setbacks.  It is also to create a learning tool that motivates great improvements. These abilities can be accepted as a way to setup great developing skills or ideas to resolving problems.*
+ 	
+# Growth mindset in Problem Solving
 
-You can use the [editor on GitHub](https://github.com/swindless/swindless.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+1. Collect data: Get all of the information needed to find a resolution to a problem.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+2. Write it down: Make good notes on what you need to know or remember instead of trying to keep up with it mentally.  
 
-### Markdown
+3. Acceptance: Learn from any mistakes or any failures will create great success. Be prepared to accept some criticism from others to build up self-confidence and abilities.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+4. Effort: Make an effort to learn from criticism and turn it into a positive outcome. Do not give up on the first sign of negativity, the more it’s worked on, the better it will become.
 
-```markdown
-Syntax highlighted code block
+5. Get feedback: It’s good to ask for feedback or ask questions when needed from other team members. Sometimes another person can give a different point of view that will offer a great collaboration environment.
 
-# Header 1
-## Header 2
-### Header 3
+### 3 reminders of how to keep myself in growth mindset:	
+- It’s never to late to learn something new
+- If at first, you don’t succeed, try and try again
+- I don’t know everything, and it’s ok
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/swindless/swindless.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.

@@ -12,14 +12,21 @@ D.	Pull Request – propose changes and request someone to review and pull chang
 Git is a software that takes a snapshot of the files and tracks the code history. This software is installed and maintained on the local computer system.
 
 ## II.	Some of the basic commands for Git – local computer system
-A.	$git init – Initializes local Git Repository
+A.	$git init – Initializes local Git Repository 
+
 B.	$git add– Add files to index
+
 C.	$git status – gives information of the current branch
+
 D.	$git commit –short message to include what is changed
+
 E.	$git push - uploads your commits to the remote repository
+
 F.	$git pull - gets the updates from a remote repository and applies the latest changes in your local 
+
 G.	$git clone - downloads existing source code from a remote repository and save to the local computer
 
 ## III.	Markdowns
 A.	Markdowns are easy to use and easy to read style for the text on the web. It format words and add images. The files ending with .md or .markdown are the extensions for markdowns. 
+
 B.	Some of the most common styles used in markdowns are bold, italics, and strikethrough. 
